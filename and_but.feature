@@ -1,8 +1,8 @@
 Feature: Unable to withdraw cash with invalid card
 
-	In order to keep my bank account safe 							#In order to <meet some goal>
-	As a credit card user 										#As a <type of stakeholder>
-	I don't want it to be able to withdraw cash with an invalid card 	#I want <a feature>
+	In order to keep my bank account safe	#In order to <meet some goal>
+	As a credit card user	#As a <type of stakeholder>
+	I don't want it to be able to withdraw cash with an invalid card	#I want <a feature>
 	
 	#An easy to read and understand scenario
 	Scenario: Attempt withdrawal using stolen card
